@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>character on R &amp; Python</title>
@@ -5,11 +6,7 @@
     <description>Recent content in character on R &amp; Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://kwhkim.github.io/RandPython/tags/character/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kwhkim.github.io/RandPython/tags/character/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspecting UTF-8 characters</title>
       <link>https://kwhkim.github.io/RandPython/2022/03/04/my-first-blog-post/</link>
@@ -154,9 +151,9 @@ u_chars(y)
 &lt;/div&gt;
 </description>
       
-            <category>character</category>
+            <tag>character</tag>
       
-            <category>preprocessing</category>
+            <tag>preprocessing</tag>
       
       
             <category>R</category>
