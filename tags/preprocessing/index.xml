@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>preprocessing on R &amp; Python</title>
-    <link>https://kwhkim.github.io/blogcontent_randpython/tags/preprocessing/</link>
+    <link>https://kwhkim.github.io/RandPython/tags/preprocessing/</link>
     <description>Recent content in preprocessing on R &amp; Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kwhkim.github.io/blogcontent_randpython/tags/preprocessing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kwhkim.github.io/RandPython/tags/preprocessing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspecting UTF-8 characters</title>
-      <link>https://kwhkim.github.io/blogcontent_randpython/2022/03/04/my-first-blog-post/</link>
+      <link>https://kwhkim.github.io/RandPython/2022/03/04/my-first-blog-post/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kwhkim.github.io/blogcontent_randpython/2022/03/04/my-first-blog-post/</guid>
+      <guid>https://kwhkim.github.io/RandPython/2022/03/04/my-first-blog-post/</guid>
       <description>EncodingComputer can store data only with 0s and 1s. Putting together a lot of 0s and 1s, a computer can present a bigger number. But if it want to store a letter, it needs a mapping of a number onto a letter. This mapping is called “encoding”.
 Encoding depends on the letters to store. Letters people use are different for different countries and languages. There are over 1000 encodings worldwide.</description>
     </item>
