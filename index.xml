@@ -20,10 +20,13 @@ Encoding depends on the letters to store. Letters people use are different for d
     <item>
       <title>About</title>
       <link>https://kwhkim.github.io/RandPython/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kwhkim.github.io/RandPython/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Greetings! This website is on R and Python for Data Analysis. Here is some info about the maintainer of the site. Check out the links
+Education   Seoul National University. B.S. in Physics.
+  Seoul National University. Ph.D. in Cognitive Science.
+  Books   Kim, K. H. (2022). R로 하는 빅데이터 분석: 데이터 전처리와 시각화. Big Data Analysis with R: Data preprocessing and visualization, 3rd. Sumeun. Seoul.</description>
     </item>
     
   </channel>
